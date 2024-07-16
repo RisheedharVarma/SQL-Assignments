@@ -1,0 +1,6 @@
+
+# install all the libraries and extensions 
+
+# libraries - pandas, numpy , sqllite3 # pip install pandas 
+# extensions in vscode - sqllite 
+
